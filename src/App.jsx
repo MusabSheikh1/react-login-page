@@ -3,7 +3,6 @@ import Header from './Header/Header.jsx';
 import LoginCard from './LoginCard/LoginCard.jsx';
 
 const App = () => {
-  // Static array of users
   const users = [
     { name: 'Musab', email: 'musab@example.com', password: '1234' },
     { name: 'Saad', email: 'saad@example.com', password: '5678' },
